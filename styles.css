@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+}
+
+.itvedant-container{
+    position: relative;
+    left: 41rem;
+}
+
+.ameya-container{
+    background-color: red;
+}
+
+.ameya-text{
+    color: white;
+}
+
+.nana-container{
+    background-color: purple;
+}
+
+.nana-text{
+    color:rgb(156, 227, 125);
+}
+
+.mahesh-container{
+    background-color: silver;
+}
+
+.mahesh-text{
+    color:aqua;
+}
